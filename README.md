@@ -52,8 +52,7 @@ cloud-store1/
 ## ✅ Step 2: Clone Repository
 
 ```
-git clone https://github.com/maahirasyed/cloud-store1.git
-cd cloud-store1
+https://github.com/NAVIN-TG/cloudstore.git
 ```
 
 ---
